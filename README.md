@@ -14,8 +14,9 @@ The eval.py file is an example on how to fetch the games and evaluation that are
 
 ## Note
 
-This does not include testing data so be carefull around that !
+- This does not include testing data so be carefull around that !
 
+- I used the lichess.org formula to get win and lose %. Thanks to them
 ## Dependencies
 
 - `chess`: Python Chess Library
