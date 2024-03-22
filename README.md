@@ -1,4 +1,4 @@
-# Chess Board to Array Converter (Chess AI coming soon !)
+# Chess AI (coming soon !)
 
 This Python script converts a chess board to a numpy array for use in machine learning models. It uses the Stockfish chess engine to generate game and to generate win% and black% of winning.
 
