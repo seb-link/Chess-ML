@@ -1,6 +1,11 @@
 import numpy
 
-data = numpy.load('y_train',allow_pickle=True)
+datax = numpy.load('x_train',allow_pickle=True)
 
-for i in data :
+for i in datax :
+    print(i)
+
+datay = numpy.load('y_train',allow_pickle=True)
+
+for i in datay :
     print(i)
